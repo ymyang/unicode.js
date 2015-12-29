@@ -1,0 +1,24 @@
+{
+  "name": "unicode.js",
+  "version": "1.0.0",
+  "description": "unicode to string & string to unicode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymyang/unicode.js.git"
+  },
+  "keywords": [
+    "unicode",
+    "utf8",
+    "string"
+  ],
+  "author": "ymyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymyang/unicode.js/issues"
+  },
+  "homepage": "https://github.com/ymyang/unicode.js#readme"
+}
